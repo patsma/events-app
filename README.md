@@ -1,4 +1,5 @@
-# interests-app
+# Show Events App 
+Display, list, create events with fake API
 
 ## Project setup
 ```
