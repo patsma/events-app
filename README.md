@@ -1,6 +1,8 @@
 # Show Events App 
 Display, list, create events with fake API
 
+Visit: https://show-events-app.netlify.app/
+
 ## Project setup
 ```
 npm install

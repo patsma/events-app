@@ -1,9 +1,9 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
-import EventList from "../components/EventList";
-import EventCreate from "../components/EventCreate";
-import EventShow from "../components/EventShow";
-import User from "../components/User";
+import EventList from "../views/EventList";
+import EventCreate from "../views/EventCreate";
+import EventShow from "../views/EventShow";
+import User from "../views/User";
 
 Vue.use(VueRouter);
 
