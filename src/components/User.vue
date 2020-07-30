@@ -1,11 +1,13 @@
 <template>
     <div>
-        <p>This user is {{$route.params.username}}</p>
+        <p>This user is {{username}}</p>
     </div>
 </template>
 
 <script>
-    export default {}
+    export default {
+        props: ["username"]
+    }
 </script>
 
 <style scoped>
