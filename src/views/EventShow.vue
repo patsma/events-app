@@ -1,6 +1,6 @@
 <template>
     <div>
-        <p>Show event {{id}}</p>
+        <h1>Show event {{id}}</h1>
     </div>
 </template>
 
